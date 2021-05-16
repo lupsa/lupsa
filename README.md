@@ -2,6 +2,7 @@
 
 ### My Recent Projects
 
+- [lupsa/hugoLanyon](https://github.com/lupsa/hugoLanyon) - 
 - [lupsa/home](https://github.com/lupsa/home) - Home automation using openhab
 
 ### Recent Releases I Worked On
