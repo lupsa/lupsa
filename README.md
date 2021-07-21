@@ -2,12 +2,12 @@
 
 ### My Recent Projects
 
-- [lupsa/hugoLanyon](https://github.com/lupsa/hugoLanyon) - 
+- [lupsa/hugoLanyon](https://github.com/lupsa/hugoLanyon) - Lanyon is an unassuming Jekyll theme, now ported to Hugo, that places content first by tucking away navigation in a hidden drawer.
 - [lupsa/home](https://github.com/lupsa/home) - Home automation using openhab
 
 ### Recent Releases I Worked On
 
-- [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) ([v0.83.1](https://github.com/gohugoio/hugoDocs/releases/tag/v0.83.1), 2 weeks ago) - The source for https://gohugo.io/
+- [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) ([v0.84.4](https://github.com/gohugoio/hugoDocs/releases/tag/v0.84.4), 2 weeks ago) - The source for https://gohugo.io/
 
 ### Contact Info
 * Twitter: [@dariuslupsa](https://twitter.com/dariuslupsa)
