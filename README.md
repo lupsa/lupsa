@@ -2,7 +2,6 @@
 
 ### My Recent Projects
 
-- [lupsa/Utterson](https://github.com/lupsa/Utterson) - A Hugo theme based on Poole, the Jekyll Butler.
 - [lupsa/hugoLanyon](https://github.com/lupsa/hugoLanyon) - Lanyon is an unassuming Jekyll theme, now ported to Hugo, that places content first by tucking away navigation in a hidden drawer.
 - [lupsa/home](https://github.com/lupsa/home) - Home automation using openhab
 
