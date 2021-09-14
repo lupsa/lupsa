@@ -3,7 +3,6 @@
 ### My Recent Projects
 
 - [lupsa/hugoLanyon](https://github.com/lupsa/hugoLanyon) - Lanyon is an unassuming Jekyll theme, now ported to Hugo, that places content first by tucking away navigation in a hidden drawer.
-- [lupsa/home](https://github.com/lupsa/home) - Home automation using openhab
 
 ### Recent Releases I Worked On
 
