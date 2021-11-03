@@ -6,7 +6,7 @@
 
 ### Recent Releases I Worked On
 
-- [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) ([v0.88.1](https://github.com/gohugoio/hugoDocs/releases/tag/v0.88.1), 1 month ago) - The source for https://gohugo.io/
+- [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) ([v0.89.0](https://github.com/gohugoio/hugoDocs/releases/tag/v0.89.0), 1 day ago) - The source for https://gohugo.io/
 
 ### Contact Info
 * Twitter: [@dariuslupsa](https://twitter.com/dariuslupsa)
