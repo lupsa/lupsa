@@ -2,6 +2,7 @@
 
 ### My Recent Projects
 
+- [lupsa/Utterson](https://github.com/lupsa/Utterson) - Hugo theme based on Poole
 - [lupsa/hugoLanyon](https://github.com/lupsa/hugoLanyon) - Lanyon is an unassuming Jekyll theme, now ported to Hugo, that places content first by tucking away navigation in a hidden drawer.
 
 ### Recent Releases I Worked On
