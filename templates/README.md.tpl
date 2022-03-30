@@ -5,11 +5,6 @@
 - [{{.Name}}]({{.URL}}) - {{.Description}}
 {{- end}}
 
-### Recent Releases I Worked On
-{{range recentReleases 5 }}
-- [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
-{{- end}}
-
 ### Contact Info
 * Twitter: [@dariuslupsa](https://twitter.com/dariuslupsa)
 * Blog: [dariuslupsa.ro](https://dariuslupsa.ro)
